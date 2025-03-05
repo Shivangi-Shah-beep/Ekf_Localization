@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+from measurement_model_2 import measurement_model_2
+
+if __name__ == '__main__':
+    measurement_model_2.main()

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="prob_rob_labs" type="measurement_model_2" name="measurement_model_2" output="screen">
+  </node>
+</launch>
