@@ -68,7 +68,7 @@ class Correspondence:
 
 def main():
     rospy.init_node('correspondence_matcher')
-    colors = ['red', 'green', 'blue', 'yellow', 'cyan', 'magenta']
+    colors = ['red', 'green', 'yellow', 'cyan', 'magenta']
     pad_rejected = False
 
     matchers = []  # Store matchers if needed later
